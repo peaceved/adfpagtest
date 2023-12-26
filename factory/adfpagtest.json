@@ -1,0 +1,9 @@
+{
+	"name": "adfpagtest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3d25e65f-8844-48b9-9595-34d0c66e6f11",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
